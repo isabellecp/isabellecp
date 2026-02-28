@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Isabelle! 👋
 
-<!--
-**isabellecp/isabellecp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Future Information Systems Student
+I am a High School student currently in my 2nd year, dedicated to building a solid foundation in technology and logic to pursue a degree in **Information Systems**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ My Focus
+- 🎯 **Goal:** Master the fundamentals of algorithms and data logic.
+- 📚 **Current Studies:** Exploring Git/GitHub and Python.
+- 💡 **Interests:** Systems Architecture and Problem Solving.
+
+---
+
+### 📫 Connect with me
+- 📧 isabelle04062009@gmail.com
