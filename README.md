@@ -7,7 +7,7 @@ I am a High School student currently in my 2nd year, dedicated to building a sol
 
 ### 🖥️ My Focus
 - 🎯 **Goal:** Master the fundamentals of algorithms and data logic.
-- 📚 **Current Studies:** Exploring Git/GitHub and Python.
+- 📚 **Current Studies:** Exploring SQL and programming logic.
 - 💡 **Interests:** Systems Architecture and Problem Solving.
 
 ---
