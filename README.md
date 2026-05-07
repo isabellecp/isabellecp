@@ -1,4 +1,4 @@
-# Hi, I'm Isabelle! 👋
+# Hi, I'm Isabelle!
 
 ### 🎓 Future Information Systems Student
 I am a High School student currently in my 2nd year, dedicated to building a solid foundation in technology and logic to pursue a degree in **Information Systems**.
